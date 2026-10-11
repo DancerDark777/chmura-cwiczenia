@@ -9,3 +9,23 @@ Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 1. Pracy w Google Colab
 2. Przechowywania plików w serwisie GitHub
 3. Publikowania strony w chmurze
+
+# Ćwiczenia 1 – Chmura obliczeniowa
+
+## Repozytorium
+
+[Otwórz repozytorium GitHub](https://github.com/DancerDark777/chmura-cwiczenia)
+
+## Strona wizytówka
+
+[Otwórz stronę GitHub Pages](https://DancerDark777.github.io/chmura-cwiczenia/)
+
+## Notatki
+
+- [Słownik usług chmurowych](notatki/slownik.md)
+
+- [Bezpieczeństwo repozytorium](notatki/bezpieczenstwo.md)
+
+## Notatnik Google Colab
+
+[Otwórz notatnik ćwiczeń](https://colab.research.google.com/github/DancerDark777/chmura-cwiczenia/blob/main/NAZWA_PLIKU.ipynb)
