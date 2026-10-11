@@ -1,0 +1,2 @@
+Bezpieczeństwo repozytorium
+Nie wolno zapisywać haseł ani kluczy dostępu w publicznym repozytorium, ponieważ każda osoba może je odczytać i wykorzystać do uzyskania nieautoryzowanego dostępu do kont lub usług. Może to doprowadzić do kradzieży danych, przejęcia konta lub wygenerowania wysokich kosztów w chmurze. Samo usunięcie pliku z hasłem nie wystarczy, ponieważ jego wcześniejsze wersje mogą nadal znajdować się w historii commitów. Należy natychmiast zmienić ujawnione hasło lub unieważnić klucz, a następnie usunąć sekret z historii repozytorium, jeśli to konieczne.
