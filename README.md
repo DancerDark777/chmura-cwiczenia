@@ -28,4 +28,4 @@ Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 
 ## Notatnik Google Colab
 
-[Otwórz notatnik ćwiczeń](https://colab.research.google.com/github/DancerDark777/chmura-cwiczenia/blob/main/NAZWA_PLIKU.ipynb)
+[Otwórz notatnik ćwiczeń](https://colab.research.google.com/github/DancerDark777/chmura-cwiczenia/blob/main/Copy_of_Cwiczenia_01_Chmura_bez_karty_Colab_i_GitHub.ipynb)
